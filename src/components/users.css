@@ -1,0 +1,112 @@
+.Users__cont{
+    padding: 10px;
+    width: 100%;
+    height: auto;
+
+}
+.Users {
+    width: 600px;
+    margin: 10px auto ;
+    margin-bottom: 50px;
+
+
+}
+.Users__profile--cont img{
+    width: 200px;
+    height: 200px;
+}
+.Users__profile{
+    width: 650px;
+    margin: 50px auto;
+    border: 1px solid black;
+}
+
+.Users input{ 
+  width: 100%;
+  padding: 12px;
+  outline: none;
+  border:none;
+  border-radius: 5px;
+  background: rgb(231, 229, 229);
+}
+.Users button{
+  border-radius: 5px;
+  padding: 12px;
+  outline: none;
+  background: rgb(229, 226, 226);
+  border:none;
+  margin-left: 5px;
+  color:rgb(116, 113, 113);
+}
+.Users__info{
+    display: flex;
+    flex-direction: column;
+    margin: 40px auto;
+    align-items: center;
+    width: 600px;
+}
+.Users__image img{
+    width: 200px;
+    height: 200px;
+}
+.Users__info__top{
+    padding: 10px;
+    width: 650px;
+    border-bottom: 1px solid rgb(133, 132, 132);
+    display: flex;
+    justify-content: space-between;
+    background-color: #6d6a6a;
+}
+.Users__info__top h3{
+    color: #fff;
+    width: 250px;
+    text-align: center;
+    font-weight:500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.users__info-cont{
+    width: 300px;
+}
+form{
+    display: flex;
+}
+.repos{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Users__info__user__cont{
+    padding: 10px;
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #6d6a6a;
+}
+.Users__links{
+    color:#fff;
+    text-decoration: none;
+    margin: 5px;
+}
+.Users__links:hover{
+    color: rgb(182, 179, 179);
+}
+.Users__image{
+    width: 650px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+.Users__info__top--cont{
+    width: 650px;
+    border-radius: 12px;
+}
+.Users__info__user__cont h3{
+    width: 300px;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
