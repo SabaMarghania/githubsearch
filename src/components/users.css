@@ -48,6 +48,7 @@
 .Users__image img{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
 }
 .Users__info__top{
     padding: 10px;
